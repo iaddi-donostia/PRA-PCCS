@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+
+    <!-- No queremos que agregue nada por defecto ni empaquete -->
+    <EnableDefaultItems>false</EnableDefaultItems>
+    <IsPackable>false</IsPackable>
+
+    <!-- Opcional: que no se intente compilar -->
+    <NoBuild>true</NoBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Incluye todas tus notas e imágenes -->
+    <None Include="**\*.md" />
+    <None Include="**\*.png;**\*.jpg;**\*.jpeg;**\*.gif;**\*.svg" />
+    <!-- (Opcional) ver la config de Obsidian en el árbol -->
+    <None Include=".obsidian\**\*" />
+  </ItemGroup>
+</Project>
+
