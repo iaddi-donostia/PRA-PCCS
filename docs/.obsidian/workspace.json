@@ -11,10 +11,14 @@
             "id": "28e0db9899992e7e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "04-ADR- Architecture Decision Records/ADR - Arquitectura por capas (v2).md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ADR - Arquitectura por capas (v2).md"
             }
           }
         ]
@@ -164,9 +168,15 @@
   },
   "active": "28e0db9899992e7e",
   "lastOpenFiles": [
+    "obj/project.nuget.cache",
+    "obj/Debug/net8.0/Docs.csproj.FileListAbsolute.txt",
+    "00-MOC- MapOfContent/Índice.md.md",
+    "README.md.md",
+    "Untitled.canvas",
+    "05-Decisiones/Registro de decisiones.md.md",
+    "04-ADR- Architecture Decision Records/ADR - Arquitectura por capas (v2).md.md",
     "obj/Debug/net8.0/Docs.assets.cache",
     "obj/Docs.csproj.nuget.dgspec.json",
-    "obj/project.nuget.cache",
     "obj/project.assets.json",
     "obj/Docs.csproj.nuget.g.targets",
     "obj/Docs.csproj.nuget.g.props",
@@ -174,8 +184,6 @@
     "obj/Debug/net8.0/Docs.AssemblyInfoInputs.cache",
     "obj/Debug/net8.0/Docs.GeneratedMSBuildEditorConfig.editorconfig",
     "obj/Debug/net8.0/refint",
-    "obj/Debug/net8.0/ref",
-    "Untitled.canvas",
     "01-SOPs-Procedimientos/SOP - Despliegue IIS.md",
     "03-Plantillas/Reunión - plantilla.md.md",
     "03-Plantillas/ADR- plantilla.md.md",

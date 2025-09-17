@@ -5,9 +5,6 @@
     <!-- No queremos que agregue nada por defecto ni empaquete -->
     <EnableDefaultItems>false</EnableDefaultItems>
     <IsPackable>false</IsPackable>
-
-    <!-- Opcional: que no se intente compilar -->
-    <NoBuild>true</NoBuild>
   </PropertyGroup>
 
   <ItemGroup>

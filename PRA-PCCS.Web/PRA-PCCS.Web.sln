@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRA-PCCS.Infrastructure", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docs", "..\docs\Docs.csproj", "{C1BF0035-2FFD-5D96-1143-8A2DE520AC06}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PRA-PCCS.Domain", "..\PRA-PCCS.Domain\PRA-PCCS.Domain.csproj", "{12F03AD8-581A-449E-BE2D-49CC91EED5F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{C1BF0035-2FFD-5D96-1143-8A2DE520AC06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1BF0035-2FFD-5D96-1143-8A2DE520AC06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1BF0035-2FFD-5D96-1143-8A2DE520AC06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12F03AD8-581A-449E-BE2D-49CC91EED5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F03AD8-581A-449E-BE2D-49CC91EED5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F03AD8-581A-449E-BE2D-49CC91EED5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F03AD8-581A-449E-BE2D-49CC91EED5F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
