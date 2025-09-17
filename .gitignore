@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+# Obsidian (solo layout)
+docs/.obsidian/workspace.json
+# Proyecto Docs (evitar basura de build)
+docs/bin/
+docs/obj/
